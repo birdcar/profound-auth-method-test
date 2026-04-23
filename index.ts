@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 /**
- * authMethodDemo.ts
+ * index.ts
  *
  * Minimal Bun server that proves `authenticationMethod` is returned by the
  * WorkOS Node SDK from BOTH of the relevant success paths:
@@ -19,7 +19,7 @@
  *        # optional: PORT (default 3000)
  *   3. Add http://localhost:3000/callback to your AuthKit redirect URIs
  *      in the WorkOS dashboard.
- *   4. Run: `bun run authMethodDemo.ts`
+ *   4. Run: `bun run index.ts`
  *   5. Open http://localhost:3000 and log in.
  */
 

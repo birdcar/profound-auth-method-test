@@ -34,7 +34,7 @@ Set the following environment variables (via `.env`, shell export, or your runne
 ## Run
 
 ```bash
-bun run authMethodDemo.ts
+bun run index.ts
 ```
 
 Open [http://localhost:3000](http://localhost:3000) and click "Log in with AuthKit".
